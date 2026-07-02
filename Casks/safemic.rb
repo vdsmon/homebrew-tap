@@ -1,8 +1,8 @@
 cask "safemic" do
-  version "0.5.3"
-  sha256 "d2b3ec2b00707fd7410297c1529874a864635e539073bd790d2f0d47304be49e"
+  version "0.5.4"
+  sha256 "6190335a8f68df68fd49f01cd81daeba9403fbc957703b9feef39166c527f908"
 
-  url "https://github.com/vdsmon/safemic/releases/download/v0.5.3/safemic-0.5.3-aarch64-apple-darwin.dmg"
+  url "https://github.com/vdsmon/safemic/releases/download/v0.5.4/safemic-0.5.4-aarch64-apple-darwin.dmg"
   name "SafeMic"
   desc "System-wide microphone mute for macOS"
   homepage "https://github.com/vdsmon/safemic"
