@@ -1,6 +1,6 @@
 cask "safemic" do
   version "0.5.2"
-  sha256 "43f783ef0d711279bbfe06e5d941b839e7aae30006b6d916d15d13ca9efa3bb4"
+  sha256 "d8c8014bc85e4f01efc0dec72d820afe32a8870f4421ba0f0bb9cb9bfed80450"
 
   url "https://github.com/vdsmon/safemic/releases/download/v0.5.2/safemic-0.5.2-aarch64-apple-darwin.dmg"
   name "SafeMic"
